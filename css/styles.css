@@ -1,0 +1,141 @@
+body {
+  background-color: #E8F9FD;
+  text-align: center;
+  color: #06283D;
+  font-family: 'Merriweather', serif;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+hr {
+  width: 5%;
+  border: 6px dotted;
+  border-style: none none dotted;
+  color: #307a8b;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.cloud-throw-up-img {
+  left: 50px;
+  top: 00px;
+  width: 260px;
+  float: right;
+}
+
+.This-is-me {
+  height: 300px;
+}
+
+.this-is-me-text {
+  font-family: 'Sacramento', cursive;
+  padding-top: 13%;
+}
+
+.Heading {
+  font-family: 'Sacramento', cursive;
+  margin: auto;
+  padding-top: 5%;
+}
+
+.top-container {
+  width: 50%;
+  margin: auto;
+}
+
+.middle-container {
+  padding-top: 100px;
+  padding-left: 10%;
+  padding-right: 10%;
+  border-bottom-width: 100px;
+  padding-bottom: 100px;
+}
+
+.mountain-img {
+  width: 90%;
+  padding-top: 3%;
+}
+
+.rainbow-img {
+  margin: auto;
+  width: 100px;
+  padding-top: 3em;
+}
+
+.nightime-img {
+  margin-bottom: 90px;
+  width: 300px;
+}
+
+.coding-img {
+  margin-left: 0px;
+  padding-left: 0px;
+  padding-right: 50px;
+  float: left;
+  width: 150px;
+}
+
+.analytics-img {
+  margin-right: 0px;
+  margin-left: 50px;
+  float: right;
+  width: 150px;
+}
+
+.skill-row-1 {
+  text-align: left;
+  background-color: #AEE1FC;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 26px;
+}
+
+.skill-row-2 {
+  margin-top: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  text-align: left;
+  background-color: #AEE1FC;
+  border-radius: 26px;
+}
+
+.profile {
+  background-color: #AEE1FC;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 60px;
+  padding-left: 20px;
+  border-radius: 26px;
+}
+
+.quote {
+  font-family: 'Sacramento', cursive;
+}
+
+.skill-title {
+  margin-top: 100px;
+  margin-bottom: 30px;
+}
+
+.bottom-container {
+  height: 50px;
+  background-color: #60ABFB;
+}
+
+.CRSimeon {
+  padding-top: 16px;
+  margin-bottom: 0px;
+}
